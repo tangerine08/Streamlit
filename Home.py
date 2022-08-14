@@ -1,7 +1,6 @@
 # home.py
 import streamlit as st
 import requests
-from PIL import Image
 from streamlit_lottie import st_lottie
 
 st.set_page_config(
