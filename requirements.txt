@@ -4,3 +4,5 @@ matplotlib
 numpy
 bokeh
 scikit-learn
+returns
+streamlit-lottie
